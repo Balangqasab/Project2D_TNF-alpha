@@ -16,10 +16,10 @@ Further I tried to identify residues in binding sites of TNF-alpha protein. The 
 
 ## Input files to reproduce analysis:
 
-* `Balang_Project2C.Rmd`
+* [Balang_Project2D.Rmd](Balang_Project2D.Rmd)
 This is the R notebook file containing all code to reproduce bioinformatics analysis to test above hypothesis. 
 
-* `TNFA_aa_seq.fasta`
+* [TNFA_aa_seq.fasta](TNFA_aa_seq.fasta)
 This is input FASTA file required in the analysis. It contains 10 TNFα protein sequences of different organism downloaded from [UniProt](https://www.uniprot.org/).
 
 Sequences used with UniProt IDs in the above FASTA file are: 
